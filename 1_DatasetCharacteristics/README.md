@@ -8,6 +8,9 @@
 - **Dataset Link:** https://data.mendeley.com/datasets/4pw8vfsnpx
 - **Dataset Owner/Contact:** Universidade Federal de Santa Catarina
 
+- **second option:** https://zenodo.org/records/16647156?preview_file=test_set.zip
+- **Dataset Owner/Contact:** DLR Institute of Solar Research
+
 ### Dataset Characteristics
 - **Number of Observations:** extension of original clouds-1000 dataset, taken between March 2021 and Janary 2023
 - **Number of Features:** 1500 images
