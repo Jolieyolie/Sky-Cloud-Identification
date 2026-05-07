@@ -23,7 +23,7 @@ Approaches or solutions that have been tried before on similar projects.
 - **Source 3**: [Convolutional Neural Network for High-Resolution Cloud
 Motion Prediction from Hemispheric Sky Images]
 
-  - **[Link](file:///Users/libraryfree/Downloads/Convolutional_Neural_Network_for_High-Resolution.pdf)**
+  - **[Link](https://repo.uni-hannover.de/items/39643614-d1cd-4a94-934d-589d9eeccc5e)**
   - **Objective**:predict cloud motion up to 10min ahead
   - **Methods**: trained with 150,000 cloud pictures of hemispheric sky imager (HSI) at Institute of
 Meteorology and Climatology (IMUK) of the Leibniz Universität Hannover, CNN
@@ -48,7 +48,7 @@ Meteorology and Climatology (IMUK) of the Leibniz Universität Hannover, CNN
     
 - **Source 6**: [GitHub Repo: Cloud detection in sky images]
 
-  - **[Link](Cloud-dection-in-sky-images)**
+  - **[Link](https://github.com/yuhao-nie/Cloud-dection-in-sky-images)**
   - **Objective**: identify cloud pixels in sky images for classification for solar forecasting
   - **Methods**: algorithm from  Nie et al. (2020) study, with integration of NRBR (normalized red blue ratio) and CSL (clear sky library)
   - **Outcomes**: identification of several possible improvements: algorithm not self-adaptive when different camera is used, deep learning would be better option
