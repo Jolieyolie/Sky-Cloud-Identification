@@ -5,18 +5,18 @@
 ## Dataset Information
 
 ### Dataset Source
-- **Dataset Link:** [https://data.mendeley.com/datasets/4pw8vfsnpx]
-- **Dataset Owner/Contact:** [Universidade Federal de Santa Catarina]
+- **Dataset Link:** https://data.mendeley.com/datasets/4pw8vfsnpx
+- **Dataset Owner/Contact:** Universidade Federal de Santa Catarina
 
 ### Dataset Characteristics
-- **Number of Observations:** [extension of original clouds-1000 dataset, taken between March 2021 and Janary 2023]
-- **Number of Features:** [1500 images]
+- **Number of Observations:** extension of original clouds-1000 dataset, taken between March 2021 and Janary 2023
+- **Number of Features:** 1500 images
 
 ### Target Variable/Label
-- **Label Name:** [Cirriforms, Cumuliforms, Stratiforms, and Stratocumuliforms]
-- **Label Type:** [Classification]
-- **Label Description:** [identify clouds in images, predict weather trends]
-- **Label Values:** [type of clouds, if low or high, if water saturated or not,..]
+- **Label Name:** Cirriforms, Cumuliforms, Stratiforms, and Stratocumuliforms
+- **Label Type:** Classification
+- **Label Description:** identify clouds in images, predict weather trends
+- **Label Values:** type of clouds, if low or high, if water saturated or not,..
 - **Label Distribution:** [Brief description of class balance for classification or value distribution for regression]
 
 ### Feature Description
