@@ -20,7 +20,6 @@
 - **Label Type:** Classification
 - **Label Description:** identify clouds in images, predict weather trends
 - **Label Values:** type of clouds, if low or high, if water saturated or not,..
-- **Label Distribution:**
 
 ### Feature Description
 
