@@ -33,9 +33,9 @@
 ## Documentation
 
 1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
-3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
-4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
+2. **[Dataset Characteristics](1_DatasetCharacteristics/Cloud_data_analysis.ipynb)**
+3. **[Baseline Model](2_BaselineModel/cloud_baseline_model_colab.ipynb)**
+4. **[Model Definition and Evaluation](3_Model/cloud_training_model.ipynb)**
 5. **[Presentation](4_Presentation/README.md)**
 
 ## Cover Image
