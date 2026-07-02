@@ -21,7 +21,7 @@ Image Classification
 
 #### Model Comparison
 - **Baseline Performance:** Faster R-CNN (maP: 0.3344)
-- **Improvement Over Baseline:** maP - improvement: +14.97%
+- **Improvement Over Baseline:** +14.97% maP improvement
 - **Best Alternative Model:** Mask R-CNN v2 (maP: 0.361)
 
 #### Key Insights
