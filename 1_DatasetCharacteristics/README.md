@@ -23,21 +23,21 @@
 - **Label Distribution:** The dataset shows class imbalance, with Stratocumuliformes and Stratiformes being the most frequent classes, while Cumuliformes is underrepresented due to the dry conditions typical of the Brazilian mountainside region where the images were collected.
 
 ### Feature Description
-[Provide a brief description of each feature or group of features in your dataset. If you have many features, group them logically and describe each group. Include information about data types, ranges, and what each feature represents.]
+Each image is annotated with bounding boxes and class labels corresponding to one of 5 categories: 4 cloud types (based on cloud morphology and altitude) and 1 non-cloud background class (Arvore). Classes are described below:
 
 <img width="467" height="230" alt="Bildschirmfoto 2026-05-10 um 13 44 20" src="https://github.com/user-attachments/assets/c9f94537-81e4-47b0-bf4f-7771ec38dde4" />
 
-Data type: 
+- **Data type:** Categorical (class label) per bounding box annotation
 
-- **Feature 1 (Arvore):** representation of other objects (trees, buildings)
+- **Feature 1 (Arvore):** Representation of other objects (trees, buildings)
   
-- **Feature 2 (Stratocumuliformes):** lower clouds (1-4km), very humid
+- **Feature 2 (Stratocumuliformes):** Lower clouds (1-4km), very humid
   
-- **Feature 3 (Stratiformes):** horizontal, appear in stratified atmosphere
+- **Feature 3 (Stratiformes):** Horizontal, appear in stratified atmosphere
   
-- **Feature 4 (Cirriformes):** high clouds
+- **Feature 4 (Cirriformes):** High clouds
   
-- **Feature 5 (Cumuliformes	):** vertically developed clouds, less common in this dataset (mountainous Brazilian region favors drier conditions)
+- **Feature 5 (Cumuliformes	):** Vertically developed clouds, less common in this dataset (mountainous Brazilian region favors drier conditions)
 
 ## Exploratory Data Analysis
 
