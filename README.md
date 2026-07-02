@@ -17,18 +17,18 @@ Image Classification
 #### Best Model Performance
 - **Best Model:** Mask R-CNN
 - **Evaluation Metric:** maP and IoU
-- **Final Performance:** maP=0.3933, maP@50=0.5975, maP@75= 0.3903, Mean IoU= 0.4744
+- **Final Performance:** maP: 0.3933, maP@50: 0.5975, maP@75: 0.3903, Mean IoU: 0.4744
 
 #### Model Comparison
 - **Baseline Performance:** Faster R-CNN
-- **Improvement Over Baseline:** [Quantitative improvement, e.g., "+12% accuracy", "25% reduction in MSE"]
-- **Best Alternative Model:** [Second-best model and its performance]
+- **Improvement Over Baseline:** maP - improvement: +14.97%
+- **Best Alternative Model:** Mask R-CNN v2 (maP: 0.361)
 
 #### Key Insights
 - **Most Important Features:** [Top 3-5 features that drive model performance]
-- **Model Strengths:** [What the model does well]
-- **Model Limitations:** [Known limitations and failure cases]
-- **Business Impact:** [Practical implications of the model performance]
+- **Model Strengths:** cloud detection
+- **Model Limitations:** precise box prediction
+- **Business Impact:** short weather forecasting for solar panels
 
 ## Documentation
 
