@@ -1,8 +1,8 @@
-# [Your Project Title Here]
+# Sky-Cloud-Identification
 
 ## Repository Link
 
-(https://github.com/marthab-oss/Sky-Cloud-Identification)
+https://github.com/marthab-oss/Sky-Cloud-Identification
 
 ## Description
 
