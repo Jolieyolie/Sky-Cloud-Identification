@@ -20,12 +20,12 @@ Image Classification
 - **Final Performance:** maP: 0.3933, maP@50: 0.5975, maP@75: 0.3903, Mean IoU: 0.4744
 
 #### Model Comparison
-- **Baseline Performance:** Faster R-CNN
+- **Baseline Performance:** Faster R-CNN (maP: 0.3344)
 - **Improvement Over Baseline:** maP - improvement: +14.97%
 - **Best Alternative Model:** Mask R-CNN v2 (maP: 0.361)
 
 #### Key Insights
-- **Most Important Features:** [Top 3-5 features that drive model performance]
+- **Most Important Factors Driving Performance:** layer freezing, backbone architecture (ResNet 50 FPN), Data Augmentation, Dataset size (>1000 images), Final model refinements (v2)
 - **Model Strengths:** cloud detection
 - **Model Limitations:** precise box prediction
 - **Business Impact:** short weather forecasting for solar panels
