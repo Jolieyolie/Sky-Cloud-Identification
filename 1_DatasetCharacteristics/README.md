@@ -18,9 +18,9 @@
 ### Target Variable/Label
 - **Label Name:** Cirriforms, Cumuliforms, Stratiforms, and Stratocumuliforms
 - **Label Type:** Classification
-- **Label Description:** identify clouds in images, predict weather trends
-- **Label Values:** type of clouds, if low or high, if water saturated or not,..
-- **Label Distribution:** [Brief description of class balance for classification or value distribution for regression]
+- **Label Description:** Identify clouds in images, predict weather trends
+- **Label Values:** Type of clouds
+- **Label Distribution:** The dataset shows class imbalance, with Stratocumuliformes and Stratiformes being the most frequent classes, while Cumuliformes is underrepresented due to the dry conditions typical of the Brazilian mountainside region where the images were collected.
 
 ### Feature Description
 [Provide a brief description of each feature or group of features in your dataset. If you have many features, group them logically and describe each group. Include information about data types, ranges, and what each feature represents.]
