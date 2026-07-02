@@ -8,12 +8,12 @@
 - **Dataset Link:** https://data.mendeley.com/datasets/4pw8vfsnpx
 - **Dataset Owner/Contact:** Universidade Federal de Santa Catarina
 
-- **second option:** https://zenodo.org/records/16647156?preview_file=test_set.zip (test and train set, 4 classes for altitude)
+- **Second option:** https://zenodo.org/records/16647156?preview_file=test_set.zip (test and train set, 4 classes for altitude); not used in this project, but possible for an additional future training
 - **Dataset Owner/Contact:** DLR Institute of Solar Research
 
 ### Dataset Characteristics
-- **Number of Observations:** extension of original clouds-1000 dataset, taken between March 2021 and Janary 2023, 2592 x 1944 resolution
-- **Number of Features:** 996 images with annotations/labels
+- **Number of Observations:** 996 annotated images, collected between March and October 2021, at 2592×1944 resolution
+- **Number of Classes:** 5 (4 cloud types + 1 background/object class)
 
 ### Target Variable/Label
 - **Label Name:** Cirriforms, Cumuliforms, Stratiforms, and Stratocumuliforms
@@ -37,7 +37,7 @@ Data type:
   
 - **Feature 4 (Cirriformes):** high clouds
   
-- **Feature 5 (Cumuliformes	):** = Cumulunimbus, formed in dryer regions, therefore rarely presented in this datset (mountainside in brazil)
+- **Feature 5 (Cumuliformes	):** vertically developed clouds, less common in this dataset (mountainous Brazilian region favors drier conditions)
 
 ## Exploratory Data Analysis
 
