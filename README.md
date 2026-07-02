@@ -2,15 +2,15 @@
 
 ## Repository Link
 
-[(https://github.com/marthab-oss/Sky-Cloud-Identification)]
+(https://github.com/marthab-oss/Sky-Cloud-Identification)
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+Mask R-CNN model for detecting and segmenting 4 cloud types from the Clouds-1000 dataset, with a Faster R-CNN baseline for comparison.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Image Classification
 
 ### Results Summary
 
