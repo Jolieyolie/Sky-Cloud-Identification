@@ -15,12 +15,12 @@ Image Classification
 ### Results Summary
 
 #### Best Model Performance
-- **Best Model:** [Name and type of the best-performing model"]
-- **Evaluation Metric:** [Primary metric used, e.g., Accuracy, F1-Score, MSE, MAE]
-- **Final Performance:** [Best score achieved, e.g., 95% accuracy, F1-score of 0.87, MSE of 0.12]
+- **Best Model:** Mask R-CNN
+- **Evaluation Metric:** maP and IoU
+- **Final Performance:** maP=0.3933, maP@50=0.5975, maP@75= 0.3903, Mean IoU= 0.4744
 
 #### Model Comparison
-- **Baseline Performance:** [Baseline model performance for comparison]
+- **Baseline Performance:** Faster R-CNN
 - **Improvement Over Baseline:** [Quantitative improvement, e.g., "+12% accuracy", "25% reduction in MSE"]
 - **Best Alternative Model:** [Second-best model and its performance]
 
