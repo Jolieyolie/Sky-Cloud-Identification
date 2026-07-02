@@ -5,17 +5,17 @@
 ## Baseline Model Results
 
 ### Model Selection
-- **Baseline Model Type:** [e.g., Random Forest, Logistic Regression, Linear Regression, Naive Bayes, etc.]
-- **Rationale:** [Brief explanation of why this model was chosen as baseline]
+- **Baseline Model Type:** Faster- R-CNN
+- **Rationale:** Faster R-CNN was chosen as baseline because it provides reliable bounding-box detection without the added complexity of instance segmentation, allowing for a clean performance comparison against the Mask R-CNN approach on the same dataset.
 
 ### Model Performance
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, Precision, Recall, MSE, MAE, R², etc.]
-- **Performance Score:** [e.g., 85% accuracy, F1-score of 0.78, MSE of 0.15]
-- **Cross-Validation Score:** [Mean and standard deviation of CV scores, e.g., 0.82 ± 0.03]
+- **Evaluation Metric:** mean average precision (maP)
+- **Performance Score:** maP=0.3417
+- **Cross-Validation Score:** Cross-validation was not performed, a train/validation/test split was used instead (consistent with the literature)
 
 ### Evaluation Methodology
-- **Data Split:** [Train/Validation/Test split ratios, e.g., 70/15/15]
-- **Evaluation Metrics:** [List all metrics used and justify why they are appropriate for this problem]
+- **Data Split:** Train/Validation/Test split ratios: 70/15/15
+- **Evaluation Metrics:** maP: to evaluate the selection; and iou: to evaluate the chosen boxes and segementations
 
 ### Metric Practical Relevance
 [Explain the practical relevance and business impact of each chosen evaluation metric. How do these metrics translate to real-world performance and decision-making? What do the metric values mean in the context of your specific problem domain?]
